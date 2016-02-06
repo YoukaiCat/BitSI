@@ -1,0 +1,14 @@
+Makefile*
+*.a
+*.o
+*.obj
+*.lib
+*.exp
+*.dll
+*.exe
+*.moc
+moc_*
+ui_*
+qrc_*
+build/
+.idea/
